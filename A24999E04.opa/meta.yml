@@ -1,0 +1,19 @@
+id: A24999E04
+title: 'The Tamboura of Devotion: A Prayer to Götsang Gönpo Dorje'
+type: translation
+pechas:
+- I733F0FCA
+- I44234344
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:57:38.086833
+  last_modified_at: 2023-01-04 11:57:38.086842
+  collections:
+  - Götsangpa Gönpo Dorje
+  - Works of Tibetan Masters
+alignment_to_base:
+  I733F0FCA/4A77: 1E0B
+  I44234344/468E: 1E0B
